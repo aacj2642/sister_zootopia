@@ -383,7 +383,7 @@ input {
 
 #pic-5 {
     filter: brightness(35%);
-    background-image: url(https://www.natgeomedia.com/wp-content/uploads/2016/03/%E5%92%8C%E6%A8%82%E5%8B%95%E7%89%A9%E5%A4%A7%E5%AE%B6%E5%BA%AD.png);
+    background-image: url(https://lh3.googleusercontent.com/proxy/Ta7ER3MeKALYZhXOaiojHTSiFo1REw8fYnz70OLjTPMeDAC50JcDEHMOxriR47xVf0ZMx3obZ_x35O7zAdgbp2__PVU_RbkkJr7l8eK6iaoU8ZfPC-aY6lThT63E-l73PvtwvkFEqQ);
 }
 
 #pic-1:hover {
@@ -443,7 +443,7 @@ input {
 }
 
 #ipt-5:checked~.show-box {
-    background-image: url(https://www.natgeomedia.com/wp-content/uploads/2016/03/%E5%92%8C%E6%A8%82%E5%8B%95%E7%89%A9%E5%A4%A7%E5%AE%B6%E5%BA%AD.png);
+    background-image: url(https://lh3.googleusercontent.com/proxy/Ta7ER3MeKALYZhXOaiojHTSiFo1REw8fYnz70OLjTPMeDAC50JcDEHMOxriR47xVf0ZMx3obZ_x35O7zAdgbp2__PVU_RbkkJr7l8eK6iaoU8ZfPC-aY6lThT63E-l73PvtwvkFEqQ);
 }
 
 .content-box3 {
